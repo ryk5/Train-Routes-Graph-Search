@@ -10,7 +10,7 @@ rrNodeCity.txt : Each line has an ID corresponding to a major city
 
 rrNodes.txt : Each line has an ID corresponding to a latitude and longitude
 
-Searches.py : File that tests the performances of different search algorithms and visualizes them in Tkinter 
+Searches.py : File that tests the performances of different search algorithms (BFS, Bidirectional BFS, A*, Bidirectional A*, and Tridirectional A*) and visualizes them in Tkinter 
 
 Data is originally from: http://cta.ornl.gov/transnet/ (outdated link)
 
