@@ -14,4 +14,8 @@ Searches.py : File that tests the performances of different search algorithms (B
 
 Data is originally from: http://cta.ornl.gov/transnet/ (outdated link)
 
+**A few notes**
+- You may only use the major cities in the rrNodesCity.txt file (working on adding more cities)
+- You have to input the start, target, and intermediate city (intermediate is for tridirectional search)
+
 <img width="877" alt="bfsusa" src="https://github.com/user-attachments/assets/730ae48f-f8c6-41e4-85a8-d1671f61737c">
